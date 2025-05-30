@@ -1,4 +1,5 @@
-# vendas-xbox# ✅ Resumo Detalhado da Dashboard - Projeto Vendas Xbox  
+# vendas-xbox
+## ✅ Resumo Detalhado da Dashboard - Projeto Vendas Xbox  
 
 🔗 [gptonline.ai](https://gptonline.ai/)  
 
